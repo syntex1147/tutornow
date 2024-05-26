@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686982975066",
+    "project_id": "tutornow-cd69b",
+    "storage_bucket": "tutornow-cd69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686982975066:android:2f8702392a5d96cb405263",
+        "android_client_info": {
+          "package_name": "com.example.tutornow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40HRWWWXVOCWJHU7hN01g1JZEVlmO1-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
